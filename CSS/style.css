@@ -1,4 +1,6 @@
 
+
+
 .rotate-scale-up {
     -webkit-animation: rotate-scale-up 5s linear both;
             animation: rotate-scale-up 5s linear both;
@@ -285,5 +287,9 @@
       -webkit-transform-origin: top;
               transform-origin: top;
     }
+  }
+  
+  body {
+    background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/7513870/original_f4ab1401e665d9a99ecaa85ec8a3fccd.gif?1591073091");
   }
   
